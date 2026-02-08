@@ -10,12 +10,10 @@ This repository holds the **community stations** data file (`stations.json`) use
 
 ## Privacy: anonymized coordinates
 
-**Coordinates in this file are not exact.** They are anonymized so stations remain findable on the map without exposing precise locations.
+**Coordinates in this file are not exact.** The data in GitHub is already anonymized server-side; the map adds extra jitter client-side when rendering.
 
-- **Client-side:** WeatherNode can apply a small random offset (jitter) to coordinates before sending them to the aggregator.
-- **Server-side:** The aggregator applies an additional deterministic offset within a configurable radius (e.g. 100 m) before writing to `stations.json`. The same station ID always gets the same offset, so the map marker stays stable.
-
-Exact coordinates are never stored in this repository.
+- **Server-side:** The aggregator applies a deterministic offset within a configurable radius (e.g. 100 m) before writing to `stations.json`. The same station ID always gets the same offset, so stored positions are stable but not precise. Exact coordinates are never stored in this repository.
+- **Client-side:** When displaying the map, WeatherNode adds an extra jitter on top of that data at each render, so the positions shown on the map are further randomized and never reveal the real location.
 
 ---
 
