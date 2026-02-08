@@ -9,7 +9,17 @@
             "hardware": "Davis Instruments",
             "manufacturer": "davis",
             "updated_at": "2026-02-08T12:44:26-08:00"
+        },
+        {
+            "id": "65f989ddc98bb04a",
+            "name": "Davis Instruments demo station San Jose",
+            "latitude": 37.6360067059015,
+            "longitude": -122.12626674836163,
+            "url": "https://weatherlink-fx.weathernode.dev",
+            "hardware": "Davis Instruments",
+            "manufacturer": "davis",
+            "updated_at": "2026-02-08T13:56:08-08:00"
         }
     ],
-    "last_updated": "2026-02-08T20:44:27+00:00"
+    "last_updated": "2026-02-08T21:56:08+00:00"
 }
