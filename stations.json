@@ -1,16 +1,6 @@
 {
     "stations": [
         {
-            "id": "e8e5f6782ba658cd",
-            "name": "Het lokale weer en verwachting in San Jose",
-            "latitude": 37.63622280653899,
-            "longitude": -122.12603512055506,
-            "url": "https://meteouitgeest.nl",
-            "hardware": "Davis Instruments",
-            "manufacturer": "davis",
-            "updated_at": "2026-02-08T12:37:05-08:00"
-        },
-        {
             "id": "83ace33092d105a8",
             "name": "Davis Instruments demo station San Jose",
             "latitude": 37.636692127581874,
