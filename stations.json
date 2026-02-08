@@ -1,16 +1,6 @@
 {
     "stations": [
         {
-            "id": "83ace33092d105a8",
-            "name": "Davis Instruments demo station San Jose",
-            "latitude": 37.636692127581874,
-            "longitude": -122.12678602857338,
-            "url": "https://meteouitgeest.nl",
-            "hardware": "Davis Instruments",
-            "manufacturer": "davis",
-            "updated_at": "2026-02-08T12:44:26-08:00"
-        },
-        {
             "id": "65f989ddc98bb04a",
             "name": "Davis Instruments demo station San Jose",
             "latitude": 37.635853705901496,
