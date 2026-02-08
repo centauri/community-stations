@@ -9,7 +9,17 @@
             "hardware": "Davis Instruments",
             "manufacturer": "davis",
             "updated_at": "2026-02-08T12:37:05-08:00"
+        },
+        {
+            "id": "83ace33092d105a8",
+            "name": "Davis Instruments demo station San Jose",
+            "latitude": 37.636692127581874,
+            "longitude": -122.12678602857338,
+            "url": "https://meteouitgeest.nl",
+            "hardware": "Davis Instruments",
+            "manufacturer": "davis",
+            "updated_at": "2026-02-08T12:43:37-08:00"
         }
     ],
-    "last_updated": "2026-02-08T20:37:05+00:00"
+    "last_updated": "2026-02-08T20:43:38+00:00"
 }
