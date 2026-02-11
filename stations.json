@@ -3,13 +3,13 @@
         {
             "id": "65f989ddc98bb04a",
             "name": "Davis Instruments demo station San Jose",
-            "latitude": 37.6352447059015,
-            "longitude": -122.12670374512359,
+            "latitude": 37.6355317059015,
+            "longitude": -122.12648374634315,
             "url": "https://weatherlink-fx.weathernode.dev",
             "hardware": "Davis Instruments",
             "manufacturer": "davis",
             "country_code": "US",
-            "updated_at": "2026-02-11T17:03:40+01:00"
+            "updated_at": "2026-02-11T17:03:50+01:00"
         },
         {
             "id": "9cb5a6d9b1e88c95",
@@ -23,5 +23,5 @@
             "updated_at": "2026-02-11T07:28:03+01:00"
         }
     ],
-    "last_updated": "2026-02-11T16:03:40+00:00"
+    "last_updated": "2026-02-11T16:03:50+00:00"
 }
