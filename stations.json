@@ -1,6 +1,17 @@
 {
     "stations": [
         {
+            "id": "3bf37e2f37b3cc11",
+            "name": "Het lokale weer en verwachting in Roeselare",
+            "latitude": 50.338745005592,
+            "longitude": 3.5042769837009,
+            "url": "http://grass-sword.metalseed.net",
+            "hardware": "Alecto",
+            "manufacturer": "fineoffset",
+            "country_code": "FR",
+            "updated_at": "2026-06-25T13:18:25+00:00"
+        },
+        {
             "id": "65f989ddc98bb04a",
             "name": "Davis Instruments demo station Hayward",
             "latitude": 37.636609705901,
@@ -34,5 +45,5 @@
             "updated_at": "2026-06-25T00:51:48+00:00"
         }
     ],
-    "last_updated": "2026-06-25T01:10:01+00:00"
+    "last_updated": "2026-06-25T13:20:02+00:00"
 }
