@@ -36,14 +36,14 @@
         {
             "id": "b4bf83155220b85c",
             "name": "LostGirls",
-            "latitude": 52.51627120641,
-            "longitude": 4.7073446230688,
+            "latitude": 39.73877820641,
+            "longitude": -104.98975849241,
             "url": "https://weather.lostgirls.io",
             "hardware": "WH4000SE",
             "manufacturer": "fineoffset",
-            "country_code": "NL",
-            "updated_at": "2026-06-25T00:51:48+00:00"
+            "country_code": "US",
+            "updated_at": "2026-06-25T13:53:34+00:00"
         }
     ],
-    "last_updated": "2026-06-25T13:50:02+00:00"
+    "last_updated": "2026-06-25T14:00:01+00:00"
 }
