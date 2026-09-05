@@ -45,6 +45,17 @@
             "updated_at": "2026-08-18T02:47:04+02:00"
         },
         {
+            "id": "9f1cd9ce63685dd2",
+            "name": "WeatherNode",
+            "latitude": 52.51682914551,
+            "longitude": 4.7085788396293,
+            "url": "http://queenstown.kiwidreamer.com:8070",
+            "hardware": null,
+            "manufacturer": null,
+            "country_code": "NL",
+            "updated_at": "2026-09-05T20:15:00+00:00"
+        },
+        {
             "id": "a234168ce85f675d",
             "name": "Auchenhaus",
             "latitude": 47.594148292108,
@@ -122,5 +133,5 @@
             "updated_at": "2026-07-06T23:47:06+00:00"
         }
     ],
-    "last_updated": "2026-09-05T16:20:02+00:00"
+    "last_updated": "2026-09-05T20:20:02+00:00"
 }
