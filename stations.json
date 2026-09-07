@@ -25,13 +25,13 @@
         {
             "id": "65f989ddc98bb04a",
             "name": "Davis Instruments demo station Hayward",
-            "latitude": 37.635820705901,
-            "longitude": -122.12579874757,
+            "latitude": 37.636310705902,
+            "longitude": -122.12683374965,
             "url": "https://weatherlink-fx.weathernode.dev",
             "hardware": "Davis Instruments",
             "manufacturer": "davis",
             "country_code": "US",
-            "updated_at": "2026-09-06T03:09:02+02:00"
+            "updated_at": "2026-09-07T03:09:02+02:00"
         },
         {
             "id": "9cb5a6d9b1e88c95",
@@ -102,13 +102,13 @@
         {
             "id": "c996141694a1c122",
             "name": "Meteo HT&T Consulting",
-            "latitude": 43.662584493405,
-            "longitude": 10.638339957807,
+            "latitude": 43.663167493405,
+            "longitude": 10.638268968178,
             "url": "https://meteo.htt.it",
             "hardware": "FROGGIT HP1000SE PRO",
             "manufacturer": "other",
             "country_code": "IT",
-            "updated_at": "2026-09-06T00:57:03+00:00"
+            "updated_at": "2026-09-07T00:57:02+00:00"
         },
         {
             "id": "dfaf6cee44151c19",
@@ -133,5 +133,5 @@
             "updated_at": "2026-07-06T23:47:06+00:00"
         }
     ],
-    "last_updated": "2026-09-06T16:20:02+00:00"
+    "last_updated": "2026-09-07T01:10:02+00:00"
 }
