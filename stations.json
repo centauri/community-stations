@@ -80,13 +80,13 @@
         {
             "id": "bd38d74b74894351",
             "name": "Newburgh Weather",
-            "latitude": 41.503147273349,
-            "longitude": -74.019934214843,
+            "latitude": 41.501931273349,
+            "longitude": -74.019796222237,
             "url": "http://127.0.0.1:8082",
             "hardware": null,
             "manufacturer": null,
             "country_code": "US",
-            "updated_at": "2026-09-11T16:17:27+00:00"
+            "updated_at": "2026-09-12T16:17:24+00:00"
         },
         {
             "id": "c6d651b87c229b49",
@@ -133,5 +133,5 @@
             "updated_at": "2026-07-06T23:47:06+00:00"
         }
     ],
-    "last_updated": "2026-09-12T08:00:02+00:00"
+    "last_updated": "2026-09-12T16:20:02+00:00"
 }
