@@ -122,6 +122,17 @@
             "updated_at": "2026-09-22T00:57:02+00:00"
         },
         {
+            "id": "dc5025de8b60c0a5",
+            "name": "WeatherNode",
+            "latitude": 35.505769785953,
+            "longitude": -97.485636355384,
+            "url": "http://localhost:8086",
+            "hardware": null,
+            "manufacturer": null,
+            "country_code": "US",
+            "updated_at": "2026-09-22T09:04:57+00:00"
+        },
+        {
             "id": "dfaf6cee44151c19",
             "name": "Upstate Weather",
             "latitude": 34.89446774276,
@@ -144,5 +155,5 @@
             "updated_at": "2026-07-06T23:47:06+00:00"
         }
     ],
-    "last_updated": "2026-09-22T08:00:02+00:00"
+    "last_updated": "2026-09-22T09:10:02+00:00"
 }
