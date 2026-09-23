@@ -3,13 +3,13 @@
         {
             "id": "1db6d0163ff89e8f",
             "name": "Weather in Tallinn / Mustam\u00e4e",
-            "latitude": 59.412348174859,
-            "longitude": 24.686469946641,
+            "latitude": 59.412401174859,
+            "longitude": 24.688704947525,
             "url": "https://ilm.linnulennult.com",
             "hardware": "Vantage Pro2 Plus",
             "manufacturer": "davis",
             "country_code": "EE",
-            "updated_at": "2026-09-21T15:44:02+03:00"
+            "updated_at": "2026-09-23T15:44:37+03:00"
         },
         {
             "id": "3bf37e2f37b3cc11",
@@ -155,5 +155,5 @@
             "updated_at": "2026-07-06T23:47:06+00:00"
         }
     ],
-    "last_updated": "2026-09-23T08:00:02+00:00"
+    "last_updated": "2026-09-23T12:50:01+00:00"
 }
