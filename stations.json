@@ -45,6 +45,17 @@
             "updated_at": "2026-09-26T02:47:04+02:00"
         },
         {
+            "id": "9869de0766688604",
+            "name": "s'H\u00e4usle",
+            "latitude": 48.690043482997,
+            "longitude": 9.8147607594002,
+            "url": "https://wetter.iguck.de",
+            "hardware": "WS90",
+            "manufacturer": "fineoffset",
+            "country_code": "DE",
+            "updated_at": "2026-09-26T08:44:22+00:00"
+        },
+        {
             "id": "9cb5a6d9b1e88c95",
             "name": "Het lokale weer en verwachting in Uitgeest",
             "latitude": 52.516509238218,
@@ -155,5 +166,5 @@
             "updated_at": "2026-07-06T23:47:06+00:00"
         }
     ],
-    "last_updated": "2026-09-26T08:00:01+00:00"
+    "last_updated": "2026-09-26T08:50:02+00:00"
 }
