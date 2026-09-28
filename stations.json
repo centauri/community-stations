@@ -56,6 +56,17 @@
             "updated_at": "2026-09-28T03:09:03+02:00"
         },
         {
+            "id": "748836868aed203f",
+            "name": "Oberdorf Wetter",
+            "latitude": 50.8320610433,
+            "longitude": 9.6802428169067,
+            "url": "http://192.168.178.140:10130",
+            "hardware": "EasyWeather-WIFI65CF",
+            "manufacturer": "fineoffset",
+            "country_code": "DE",
+            "updated_at": "2026-09-28T18:45:33+00:00"
+        },
+        {
             "id": "92fbced9dce11062",
             "name": "Het lokale weer en verwachting in Uitgeest",
             "latitude": 52.516428089872,
@@ -210,5 +221,5 @@
             "updated_at": "2026-09-28T14:38:07+00:00"
         }
     ],
-    "last_updated": "2026-09-28T15:40:02+00:00"
+    "last_updated": "2026-09-28T18:50:01+00:00"
 }
