@@ -36,13 +36,13 @@
         {
             "id": "3fac78e126c295e8",
             "name": "Wetter Station Stadtilm",
-            "latitude": 50.775526253884,
-            "longitude": 11.082160190384,
+            "latitude": 50.775886253884,
+            "longitude": 11.083218200461,
             "url": "http://192.168.1.10:10130",
             "hardware": "Temp & Humidity & Solar & Wind & Rain",
             "manufacturer": "fineoffset",
             "country_code": "DE",
-            "updated_at": "2026-09-28T13:34:36+00:00"
+            "updated_at": "2026-09-29T02:37:01+00:00"
         },
         {
             "id": "65f989ddc98bb04a",
@@ -221,5 +221,5 @@
             "updated_at": "2026-09-28T14:38:07+00:00"
         }
     ],
-    "last_updated": "2026-09-29T01:10:01+00:00"
+    "last_updated": "2026-09-29T02:40:02+00:00"
 }
