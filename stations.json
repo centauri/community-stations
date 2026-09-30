@@ -36,13 +36,13 @@
         {
             "id": "3fac78e126c295e8",
             "name": "Wetter Station Stadtilm",
-            "latitude": 50.775962253884,
-            "longitude": 11.082277202589,
+            "latitude": 50.774765253884,
+            "longitude": 11.081253169083,
             "url": "http://192.168.1.10:10130",
             "hardware": "Temp & Humidity & Solar & Wind & Rain",
             "manufacturer": "fineoffset",
             "country_code": "DE",
-            "updated_at": "2026-09-30T02:37:01+00:00"
+            "updated_at": "2026-09-30T05:59:26+00:00"
         },
         {
             "id": "65f989ddc98bb04a",
@@ -54,6 +54,17 @@
             "manufacturer": "davis",
             "country_code": "US",
             "updated_at": "2026-09-30T03:09:02+02:00"
+        },
+        {
+            "id": "6c7e910eb014371c",
+            "name": "Wetter Station Stadtilm",
+            "latitude": 50.775084878156,
+            "longitude": 11.08015341542,
+            "url": "https://wetter.akellner.de",
+            "hardware": "Temp & Humidity & Solar & Wind & Rain",
+            "manufacturer": "fineoffset",
+            "country_code": "DE",
+            "updated_at": "2026-09-30T06:00:01+00:00"
         },
         {
             "id": "748836868aed203f",
@@ -221,5 +232,5 @@
             "updated_at": "2026-09-30T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-09-30T05:40:02+00:00"
+    "last_updated": "2026-09-30T06:00:02+00:00"
 }
