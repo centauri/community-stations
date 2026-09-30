@@ -157,13 +157,13 @@
         {
             "id": "c996141694a1c122",
             "name": "Meteo HT&T Consulting",
-            "latitude": 43.663465493405,
-            "longitude": 10.63801197348,
+            "latitude": 43.663215493405,
+            "longitude": 10.638629969032,
             "url": "https://meteo.htt.it",
             "hardware": "FROGGIT HP1000SE PRO",
             "manufacturer": "other",
             "country_code": "IT",
-            "updated_at": "2026-09-29T00:57:02+00:00"
+            "updated_at": "2026-09-30T00:57:02+00:00"
         },
         {
             "id": "dc5025de8b60c0a5",
@@ -221,5 +221,5 @@
             "updated_at": "2026-09-29T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-09-30T00:50:01+00:00"
+    "last_updated": "2026-09-30T01:00:02+00:00"
 }
