@@ -223,14 +223,14 @@
         {
             "id": "f1a99265f00cfa30",
             "name": "WeatherNode Tulsa",
-            "latitude": 36.154236079606,
-            "longitude": -95.994466709077,
+            "latitude": 36.155188079606,
+            "longitude": -95.995700707811,
             "url": "https://weather.donkiiskila.com",
             "hardware": null,
             "manufacturer": null,
             "country_code": "US",
-            "updated_at": "2026-09-30T05:31:05+00:00"
+            "updated_at": "2026-10-01T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-01T04:40:02+00:00"
+    "last_updated": "2026-10-01T05:40:02+00:00"
 }
