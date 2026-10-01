@@ -3,13 +3,13 @@
         {
             "id": "04d3a84df65b0b68",
             "name": "Trompstraat",
-            "latitude": 52.355295555564,
-            "longitude": 6.5845192173474,
+            "latitude": 52.354592555564,
+            "longitude": 6.5846332032507,
             "url": "https://weather.leunk.nl",
             "hardware": "WS5500",
             "manufacturer": "other",
             "country_code": "NL",
-            "updated_at": "2026-09-30T18:08:00+00:00"
+            "updated_at": "2026-10-01T18:08:01+00:00"
         },
         {
             "id": "1db6d0163ff89e8f",
@@ -232,5 +232,5 @@
             "updated_at": "2026-10-01T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-01T15:40:02+00:00"
+    "last_updated": "2026-10-01T18:10:02+00:00"
 }
