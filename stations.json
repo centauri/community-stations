@@ -91,13 +91,13 @@
         {
             "id": "9869de0766688604",
             "name": "s'H\u00e4usle",
-            "latitude": 48.688760482997,
-            "longitude": 9.8138917649099,
+            "latitude": 48.689282482997,
+            "longitude": 9.8149837626683,
             "url": "https://wetter.iguck.de",
             "hardware": "WS90",
             "manufacturer": "fineoffset",
             "country_code": "DE",
-            "updated_at": "2026-09-27T04:18:01+00:00"
+            "updated_at": "2026-10-02T04:18:01+00:00"
         },
         {
             "id": "9cb5a6d9b1e88c95",
@@ -232,5 +232,5 @@
             "updated_at": "2026-10-01T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-02T02:40:02+00:00"
+    "last_updated": "2026-10-02T04:20:02+00:00"
 }
