@@ -25,13 +25,13 @@
         {
             "id": "3bf37e2f37b3cc11",
             "name": "Het lokale weer en verwachting in Roeselare",
-            "latitude": 50.949463005592,
-            "longitude": 3.1309473053616,
+            "latitude": 50.949889005592,
+            "longitude": 3.1315263126875,
             "url": "http://grass-sword.metalseed.net",
             "hardware": "Alecto",
             "manufacturer": "fineoffset",
             "country_code": "BE",
-            "updated_at": "2026-10-03T04:30:28+00:00"
+            "updated_at": "2026-10-04T04:30:29+00:00"
         },
         {
             "id": "3fac78e126c295e8",
@@ -146,13 +146,13 @@
         {
             "id": "bd38d74b74894351",
             "name": "Newburgh Weather",
-            "latitude": 41.502134273349,
-            "longitude": -74.018986221003,
+            "latitude": 41.502149273349,
+            "longitude": -74.018777220912,
             "url": "http://127.0.0.1:8082",
             "hardware": null,
             "manufacturer": null,
             "country_code": "US",
-            "updated_at": "2026-10-03T04:21:38+00:00"
+            "updated_at": "2026-10-04T04:21:41+00:00"
         },
         {
             "id": "c6d651b87c229b49",
@@ -232,5 +232,5 @@
             "updated_at": "2026-10-03T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-04T04:20:02+00:00"
+    "last_updated": "2026-10-04T04:40:01+00:00"
 }
