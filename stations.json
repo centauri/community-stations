@@ -3,13 +3,13 @@
         {
             "id": "04d3a84df65b0b68",
             "name": "Trompstraat",
-            "latitude": 52.354592555564,
-            "longitude": 6.5850162032507,
+            "latitude": 52.354634555564,
+            "longitude": 6.5831652040929,
             "url": "https://weather.leunk.nl",
             "hardware": "WS5500",
             "manufacturer": "other",
             "country_code": "NL",
-            "updated_at": "2026-10-04T18:08:01+00:00"
+            "updated_at": "2026-10-05T18:08:01+00:00"
         },
         {
             "id": "1db6d0163ff89e8f",
@@ -38,11 +38,12 @@
             "name": "Wetter Station Stadtilm",
             "latitude": 50.774765253884,
             "longitude": 11.081253169083,
-            "url": "http://192.168.1.10:10130",
+            "url": null,
             "hardware": "Temp & Humidity & Solar & Wind & Rain",
             "manufacturer": "fineoffset",
             "country_code": "DE",
-            "updated_at": "2026-09-30T05:59:26+00:00"
+            "updated_at": "2026-09-30T05:59:26+00:00",
+            "local_only": true
         },
         {
             "id": "65f989ddc98bb04a",
@@ -71,11 +72,12 @@
             "name": "Oberdorf Wetter",
             "latitude": 50.8315490433,
             "longitude": 9.6798938050294,
-            "url": "http://192.168.178.140:10130",
+            "url": null,
             "hardware": "EasyWeather-WIFI65CF",
             "manufacturer": "fineoffset",
             "country_code": "DE",
-            "updated_at": "2026-10-05T15:36:01+00:00"
+            "updated_at": "2026-10-05T15:36:01+00:00",
+            "local_only": true
         },
         {
             "id": "92fbced9dce11062",
@@ -100,17 +102,6 @@
             "updated_at": "2026-10-05T04:18:01+00:00"
         },
         {
-            "id": "9cb5a6d9b1e88c95",
-            "name": "Het lokale weer en verwachting in Uitgeest",
-            "latitude": 52.516509238218,
-            "longitude": 4.7085581187755,
-            "url": "https://meteouitgeest.nl",
-            "hardware": "WH4000SE",
-            "manufacturer": "fineoffset",
-            "country_code": "NL",
-            "updated_at": "2026-08-18T02:47:04+02:00"
-        },
-        {
             "id": "9f1cd9ce63685dd2",
             "name": "WeatherNode",
             "latitude": 52.51611614551,
@@ -120,17 +111,6 @@
             "manufacturer": null,
             "country_code": "NL",
             "updated_at": "2026-09-05T20:32:46+00:00"
-        },
-        {
-            "id": "a234168ce85f675d",
-            "name": "Auchenhaus",
-            "latitude": 47.594148292108,
-            "longitude": -120.67082178714,
-            "url": "https://tempestwx.com/station/47794",
-            "hardware": "WH4000SE",
-            "manufacturer": "weatherflow",
-            "country_code": "US",
-            "updated_at": "2026-07-06T23:47:18+00:00"
         },
         {
             "id": "b4bf83155220b85c",
@@ -148,22 +128,12 @@
             "name": "Newburgh Weather",
             "latitude": 41.502375273349,
             "longitude": -74.018952219537,
-            "url": "http://127.0.0.1:8082",
+            "url": null,
             "hardware": null,
             "manufacturer": null,
             "country_code": "US",
-            "updated_at": "2026-10-05T04:21:31+00:00"
-        },
-        {
-            "id": "c6d651b87c229b49",
-            "name": "Bosc de Dades - Toixonets",
-            "latitude": 41.546918703341,
-            "longitude": 2.4467144507803,
-            "url": "https://meteo.arpaneting.es",
-            "hardware": "BoscDeDades",
-            "manufacturer": "fineoffset",
-            "country_code": "ES",
-            "updated_at": "2026-07-11T10:58:11+00:00"
+            "updated_at": "2026-10-05T04:21:31+00:00",
+            "local_only": true
         },
         {
             "id": "c996141694a1c122",
@@ -181,11 +151,12 @@
             "name": "WeatherNode",
             "latitude": 35.505238785953,
             "longitude": -97.484701348664,
-            "url": "http://localhost:8086",
+            "url": null,
             "hardware": null,
             "manufacturer": null,
             "country_code": "US",
-            "updated_at": "2026-10-05T15:32:52+00:00"
+            "updated_at": "2026-10-05T15:32:52+00:00",
+            "local_only": true
         },
         {
             "id": "dfaf6cee44151c19",
@@ -203,22 +174,12 @@
             "name": "Home",
             "latitude": 35.254661271916,
             "longitude": -81.220126386885,
-            "url": "http://10.0.0.200:8080",
+            "url": null,
             "hardware": "Ecowitt HP2564 + WS90",
             "manufacturer": "fineoffset",
             "country_code": "US",
-            "updated_at": "2026-09-26T09:11:13-04:00"
-        },
-        {
-            "id": "e831bd8bb0a8dd77",
-            "name": "Auchenhaus",
-            "latitude": 47.593905961264,
-            "longitude": -120.66905191451,
-            "url": "https://tempestwx.com",
-            "hardware": "WH4000SE",
-            "manufacturer": "weatherflow",
-            "country_code": "US",
-            "updated_at": "2026-07-06T23:47:06+00:00"
+            "updated_at": "2026-09-26T09:11:13-04:00",
+            "local_only": true
         },
         {
             "id": "f1a99265f00cfa30",
@@ -232,5 +193,5 @@
             "updated_at": "2026-10-05T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-05T15:40:02+00:00"
+    "last_updated": "2026-10-05T18:10:01+00:00"
 }
