@@ -47,13 +47,13 @@
         {
             "id": "65f989ddc98bb04a",
             "name": "Davis Instruments demo station Hayward",
-            "latitude": 37.636605705901,
-            "longitude": -122.12589075091,
+            "latitude": 37.635893705901,
+            "longitude": -122.12582874788,
             "url": "https://weatherlink-fx.weathernode.dev",
             "hardware": "Davis Instruments",
             "manufacturer": "davis",
             "country_code": "US",
-            "updated_at": "2026-10-04T03:09:02+02:00"
+            "updated_at": "2026-10-05T03:09:02+02:00"
         },
         {
             "id": "6c7e910eb014371c",
@@ -232,5 +232,5 @@
             "updated_at": "2026-10-04T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-05T01:00:01+00:00"
+    "last_updated": "2026-10-05T01:10:02+00:00"
 }
