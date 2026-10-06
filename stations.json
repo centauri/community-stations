@@ -12,6 +12,17 @@
             "updated_at": "2026-10-05T18:08:01+00:00"
         },
         {
+            "id": "062d13a77b466f90",
+            "name": "WeatherNode",
+            "latitude": 41.148092418818,
+            "longitude": -87.886019717645,
+            "url": "https://weathernode.reclaimernetwork.com",
+            "hardware": "Tempest",
+            "manufacturer": "weatherflow",
+            "country_code": "US",
+            "updated_at": "2026-10-06T05:32:14+00:00"
+        },
+        {
             "id": "1db6d0163ff89e8f",
             "name": "Weather in Tallinn / Mustam\u00e4e",
             "latitude": 59.412135174859,
@@ -184,14 +195,14 @@
         {
             "id": "f1a99265f00cfa30",
             "name": "WeatherNode Tulsa",
-            "latitude": 36.155253079606,
-            "longitude": -95.994953707725,
+            "latitude": 36.154572079606,
+            "longitude": -95.99604270863,
             "url": "https://weather.donkiiskila.com",
             "hardware": null,
             "manufacturer": null,
             "country_code": "US",
-            "updated_at": "2026-10-05T05:31:05+00:00"
+            "updated_at": "2026-10-06T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-06T04:40:02+00:00"
+    "last_updated": "2026-10-06T05:40:02+00:00"
 }
