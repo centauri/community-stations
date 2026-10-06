@@ -81,13 +81,13 @@
         {
             "id": "748836868aed203f",
             "name": "Oberdorf Wetter",
-            "latitude": 50.8315490433,
-            "longitude": 9.6798938050294,
+            "latitude": 50.8325480433,
+            "longitude": 9.6810458282044,
             "url": null,
             "hardware": "EasyWeather-WIFI65CF",
             "manufacturer": "fineoffset",
             "country_code": "DE",
-            "updated_at": "2026-10-05T15:36:01+00:00",
+            "updated_at": "2026-10-06T15:36:01+00:00",
             "local_only": true
         },
         {
@@ -160,13 +160,13 @@
         {
             "id": "dc5025de8b60c0a5",
             "name": "WeatherNode",
-            "latitude": 35.505238785953,
-            "longitude": -97.484701348664,
+            "latitude": 35.505768785953,
+            "longitude": -97.486210355372,
             "url": null,
             "hardware": null,
             "manufacturer": null,
             "country_code": "US",
-            "updated_at": "2026-10-05T15:32:52+00:00",
+            "updated_at": "2026-10-06T15:32:12+00:00",
             "local_only": true
         },
         {
@@ -204,5 +204,5 @@
             "updated_at": "2026-10-06T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-06T12:50:01+00:00"
+    "last_updated": "2026-10-06T15:40:02+00:00"
 }
