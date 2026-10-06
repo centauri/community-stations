@@ -82,13 +82,13 @@
         {
             "id": "92fbced9dce11062",
             "name": "Het lokale weer en verwachting in Uitgeest",
-            "latitude": 52.515369089872,
-            "longitude": 4.7082001929349,
+            "latitude": 52.515379089872,
+            "longitude": 4.7092991931123,
             "url": "https://meteouitgeest.nl",
             "hardware": "WH4000SE",
             "manufacturer": "fineoffset",
             "country_code": "NL",
-            "updated_at": "2026-10-05T02:47:02+02:00"
+            "updated_at": "2026-10-06T02:47:03+02:00"
         },
         {
             "id": "9869de0766688604",
@@ -193,5 +193,5 @@
             "updated_at": "2026-10-05T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-05T18:10:01+00:00"
+    "last_updated": "2026-10-06T00:50:02+00:00"
 }
