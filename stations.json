@@ -70,13 +70,13 @@
         {
             "id": "6c7e910eb014371c",
             "name": "Wetter Station Stadtilm",
-            "latitude": 50.775775878156,
-            "longitude": 11.080623413639,
+            "latitude": 50.775988878156,
+            "longitude": 11.079665413089,
             "url": "https://wetter.akellner.de",
             "hardware": "Temp & Humidity & Solar & Wind & Rain",
             "manufacturer": "fineoffset",
             "country_code": "DE",
-            "updated_at": "2026-10-06T02:37:01+00:00"
+            "updated_at": "2026-10-07T02:37:06+00:00"
         },
         {
             "id": "748836868aed203f",
@@ -204,5 +204,5 @@
             "updated_at": "2026-10-06T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-07T01:10:02+00:00"
+    "last_updated": "2026-10-07T02:40:02+00:00"
 }
