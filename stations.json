@@ -193,6 +193,17 @@
             "local_only": true
         },
         {
+            "id": "e8d0532febe308aa",
+            "name": "SeventySix",
+            "latitude": 40.829768045551,
+            "longitude": -74.79373028955,
+            "url": "https://weathernode.dyshuk.com",
+            "hardware": "WS-5000",
+            "manufacturer": "ambient",
+            "country_code": "US",
+            "updated_at": "2026-10-07T19:37:29+00:00"
+        },
+        {
             "id": "f1a99265f00cfa30",
             "name": "WeatherNode Tulsa",
             "latitude": 36.155235079606,
@@ -204,5 +215,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-07T15:40:01+00:00"
+    "last_updated": "2026-10-07T19:40:01+00:00"
 }
