@@ -172,13 +172,13 @@
         {
             "id": "dfaf6cee44151c19",
             "name": "Upstate Weather",
-            "latitude": 34.89516674276,
-            "longitude": -82.286855455387,
+            "latitude": 34.89551074276,
+            "longitude": -82.286851455846,
             "url": "https://tempestwx.com/station/202638",
             "hardware": "Tempest",
             "manufacturer": "weatherflow",
             "country_code": "US",
-            "updated_at": "2026-10-07T07:53:17+00:00"
+            "updated_at": "2026-10-08T07:53:31+00:00"
         },
         {
             "id": "e0a7d4e3cd045e0b",
@@ -215,5 +215,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-08T04:40:01+00:00"
+    "last_updated": "2026-10-08T08:00:02+00:00"
 }
