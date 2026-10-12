@@ -59,13 +59,13 @@
         {
             "id": "65f989ddc98bb04a",
             "name": "Davis Instruments demo station Hayward",
-            "latitude": 37.636711705901,
-            "longitude": -122.12721175136,
+            "latitude": 37.636431705902,
+            "longitude": -122.12714775017,
             "url": "https://weatherlink-fx.weathernode.dev",
             "hardware": "Davis Instruments",
             "manufacturer": "davis",
             "country_code": "US",
-            "updated_at": "2026-10-11T03:09:03+02:00"
+            "updated_at": "2026-10-12T03:09:03+02:00"
         },
         {
             "id": "6c7e910eb014371c",
@@ -122,17 +122,6 @@
             "manufacturer": null,
             "country_code": "NL",
             "updated_at": "2026-09-05T20:32:46+00:00"
-        },
-        {
-            "id": "b4bf83155220b85c",
-            "name": "LostGirls",
-            "latitude": 39.73858120641,
-            "longitude": -104.98934649231,
-            "url": "https://weather.lostgirls.io",
-            "hardware": "WH4000SE",
-            "manufacturer": "fineoffset",
-            "country_code": "US",
-            "updated_at": "2026-08-13T00:51:58+00:00"
         },
         {
             "id": "bd38d74b74894351",
@@ -215,5 +204,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-11T15:40:02+00:00"
+    "last_updated": "2026-10-12T01:10:01+00:00"
 }
