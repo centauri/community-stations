@@ -149,13 +149,13 @@
         {
             "id": "dc5025de8b60c0a5",
             "name": "WeatherNode",
-            "latitude": 35.506344785953,
-            "longitude": -97.484490362661,
+            "latitude": 35.505502785953,
+            "longitude": -97.485445352005,
             "url": null,
             "hardware": null,
             "manufacturer": null,
             "country_code": "US",
-            "updated_at": "2026-10-13T15:32:21+00:00",
+            "updated_at": "2026-10-14T15:32:58+00:00",
             "local_only": true
         },
         {
@@ -204,5 +204,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-14T04:40:03+00:00"
+    "last_updated": "2026-10-14T15:40:02+00:00"
 }
