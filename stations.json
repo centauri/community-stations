@@ -23,6 +23,17 @@
             "updated_at": "2026-10-06T05:32:14+00:00"
         },
         {
+            "id": "09b7c75375eeec61",
+            "name": "Weerindedraai",
+            "latitude": 52.668717248115,
+            "longitude": 4.8613797286574,
+            "url": "https://weer.groet-infra.nl",
+            "hardware": "Vantage Pro",
+            "manufacturer": "davis",
+            "country_code": "NL",
+            "updated_at": "2026-10-15T15:41:59+02:00"
+        },
+        {
             "id": "1db6d0163ff89e8f",
             "name": "Weather in Tallinn / Mustam\u00e4e",
             "latitude": 59.413025174859,
@@ -55,6 +66,17 @@
             "country_code": "DE",
             "updated_at": "2026-09-30T05:59:26+00:00",
             "local_only": true
+        },
+        {
+            "id": "4582053984bb53f0",
+            "name": "WeatherNode",
+            "latitude": 59.319117135938,
+            "longitude": 12.654834526243,
+            "url": "https://finnerud.groet-infra.nl",
+            "hardware": null,
+            "manufacturer": "netatmo",
+            "country_code": "SE",
+            "updated_at": "2026-10-15T13:41:11+00:00"
         },
         {
             "id": "65f989ddc98bb04a",
@@ -204,5 +226,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-15T04:40:01+00:00"
+    "last_updated": "2026-10-15T13:50:02+00:00"
 }
