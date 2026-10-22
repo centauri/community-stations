@@ -158,6 +158,17 @@
             "local_only": true
         },
         {
+            "id": "c4337b034b8c4b8c",
+            "name": "Weather",
+            "latitude": 36.806308717687,
+            "longitude": -114.06316731358,
+            "url": "https://weather.syncpad.org",
+            "hardware": null,
+            "manufacturer": "netatmo",
+            "country_code": "US",
+            "updated_at": "2026-10-22T14:13:00-07:00"
+        },
+        {
             "id": "c996141694a1c122",
             "name": "Meteo HT&T Consulting",
             "latitude": 43.663074493405,
@@ -226,5 +237,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-22T04:40:02+00:00"
+    "last_updated": "2026-10-22T21:20:02+00:00"
 }
