@@ -47,13 +47,13 @@
         {
             "id": "3bf37e2f37b3cc11",
             "name": "Het lokale weer en verwachting in Roeselare",
-            "latitude": 50.949004005592,
-            "longitude": 3.1292872974685,
+            "latitude": 50.949355005592,
+            "longitude": 3.1311743035044,
             "url": "http://grass-sword.metalseed.net",
             "hardware": "Alecto",
             "manufacturer": "fineoffset",
             "country_code": "BE",
-            "updated_at": "2026-10-25T04:30:28+00:00"
+            "updated_at": "2026-10-26T04:30:30+00:00"
         },
         {
             "id": "3fac78e126c295e8",
@@ -77,6 +77,17 @@
             "manufacturer": "netatmo",
             "country_code": "SE",
             "updated_at": "2026-10-15T13:41:11+00:00"
+        },
+        {
+            "id": "5197ab374586e759",
+            "name": "WeatherNode",
+            "latitude": 44.37898053657,
+            "longitude": -92.747871490377,
+            "url": "http://alaska.warbirds.int:10130",
+            "hardware": null,
+            "manufacturer": "fineoffset",
+            "country_code": "US",
+            "updated_at": "2026-10-26T04:38:21+00:00"
         },
         {
             "id": "65f989ddc98bb04a",
@@ -237,5 +248,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-26T04:30:02+00:00"
+    "last_updated": "2026-10-26T04:40:02+00:00"
 }
