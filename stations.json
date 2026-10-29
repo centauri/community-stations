@@ -47,13 +47,13 @@
         {
             "id": "3bf37e2f37b3cc11",
             "name": "Het lokale weer en verwachting in Roeselare",
-            "latitude": 50.950081005592,
-            "longitude": 3.1309093159894,
+            "latitude": 50.949940005592,
+            "longitude": 3.1301183135646,
             "url": "http://grass-sword.metalseed.net",
             "hardware": "Alecto",
             "manufacturer": "fineoffset",
             "country_code": "BE",
-            "updated_at": "2026-10-28T04:30:27+00:00"
+            "updated_at": "2026-10-29T04:30:29+00:00"
         },
         {
             "id": "3fac78e126c295e8",
@@ -248,5 +248,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-28T04:40:01+00:00"
+    "last_updated": "2026-10-29T04:40:03+00:00"
 }
