@@ -237,6 +237,18 @@
             "updated_at": "2026-10-07T19:37:29+00:00"
         },
         {
+            "id": "eb02946ce8660b62",
+            "name": "Alb-Wetter",
+            "latitude": 48.291213300295,
+            "longitude": 9.2318176233142,
+            "url": null,
+            "hardware": "GW1100",
+            "manufacturer": "fineoffset",
+            "country_code": "DE",
+            "updated_at": "2026-10-31T09:03:22+00:00",
+            "local_only": true
+        },
+        {
             "id": "f1a99265f00cfa30",
             "name": "WeatherNode Tulsa",
             "latitude": 36.155235079606,
@@ -248,5 +260,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-10-31T04:40:01+00:00"
+    "last_updated": "2026-10-31T09:10:02+00:00"
 }
