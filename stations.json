@@ -34,6 +34,17 @@
             "updated_at": "2026-10-15T15:41:59+02:00"
         },
         {
+            "id": "19d542828f3bec48",
+            "name": "Zapudje",
+            "latitude": 45.505031550423,
+            "longitude": 15.163198184206,
+            "url": "https://vreme.zapudje.net",
+            "hardware": "Froggit HP1000SE PRO",
+            "manufacturer": "fineoffset",
+            "country_code": "SI",
+            "updated_at": "2026-11-04T22:54:41+00:00"
+        },
+        {
             "id": "1db6d0163ff89e8f",
             "name": "Weather in Tallinn / Mustam\u00e4e",
             "latitude": 59.413025174859,
@@ -158,17 +169,6 @@
             "updated_at": "2026-10-06T04:18:01+00:00"
         },
         {
-            "id": "9f1cd9ce63685dd2",
-            "name": "WeatherNode",
-            "latitude": 52.51611614551,
-            "longitude": 4.7076818417739,
-            "url": "http://queenstown.kiwidreamer.com:8070",
-            "hardware": null,
-            "manufacturer": null,
-            "country_code": "NL",
-            "updated_at": "2026-09-05T20:32:46+00:00"
-        },
-        {
             "id": "bd38d74b74894351",
             "name": "Newburgh Weather",
             "latitude": 41.503138273349,
@@ -272,5 +272,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-04T04:40:03+00:00"
+    "last_updated": "2026-11-04T23:00:03+00:00"
 }
