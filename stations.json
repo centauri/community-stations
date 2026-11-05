@@ -36,13 +36,13 @@
         {
             "id": "19d542828f3bec48",
             "name": "Zapudje",
-            "latitude": 45.505031550423,
-            "longitude": 15.163198184206,
+            "latitude": 45.505020550423,
+            "longitude": 15.163495184222,
             "url": "https://vreme.zapudje.net",
             "hardware": "Froggit HP1000SE PRO",
             "manufacturer": "fineoffset",
             "country_code": "SI",
-            "updated_at": "2026-11-04T22:54:41+00:00"
+            "updated_at": "2026-11-05T00:40:55+00:00"
         },
         {
             "id": "1db6d0163ff89e8f",
@@ -272,5 +272,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-04T23:00:03+00:00"
+    "last_updated": "2026-11-05T00:50:02+00:00"
 }
