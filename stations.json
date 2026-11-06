@@ -34,6 +34,17 @@
             "updated_at": "2026-10-15T15:41:59+02:00"
         },
         {
+            "id": "186eeb3c90ead7df",
+            "name": "Greentree Weather",
+            "latitude": 38.76029108872,
+            "longitude": -87.599516874473,
+            "url": "https://weathernode.test",
+            "hardware": "KILOLNEY2",
+            "manufacturer": "fineoffset",
+            "country_code": "US",
+            "updated_at": "2026-11-06T07:33:23-06:00"
+        },
+        {
             "id": "19d542828f3bec48",
             "name": "Zapudje",
             "latitude": 45.505020550423,
@@ -272,5 +283,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-06T04:40:02+00:00"
+    "last_updated": "2026-11-06T13:40:02+00:00"
 }
