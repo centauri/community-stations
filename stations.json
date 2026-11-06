@@ -123,18 +123,6 @@
             "updated_at": "2026-10-07T02:37:06+00:00"
         },
         {
-            "id": "71af1c49be1c925a",
-            "name": "WeatherNode",
-            "latitude": 48.209032648666,
-            "longitude": 17.22623290804,
-            "url": null,
-            "hardware": null,
-            "manufacturer": null,
-            "country_code": "SK",
-            "updated_at": "2026-11-03T11:11:08+00:00",
-            "local_only": true
-        },
-        {
             "id": "748836868aed203f",
             "name": "Oberdorf Wetter",
             "latitude": 50.8325480433,
@@ -272,5 +260,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-06T16:30:02+00:00"
+    "last_updated": "2026-11-06T22:50:02+00:00"
 }
