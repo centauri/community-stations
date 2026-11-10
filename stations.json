@@ -34,6 +34,17 @@
             "updated_at": "2026-10-15T15:41:59+02:00"
         },
         {
+            "id": "1125036881501574",
+            "name": "Eichenallee",
+            "latitude": 52.667657794717,
+            "longitude": 13.26697046159,
+            "url": "https://weather.phantasoft.de",
+            "hardware": null,
+            "manufacturer": null,
+            "country_code": "DE",
+            "updated_at": "2026-11-10T16:49:45+01:00"
+        },
+        {
             "id": "19d542828f3bec48",
             "name": "Zapudje",
             "latitude": 45.505020550423,
@@ -260,5 +271,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-10T04:40:02+00:00"
+    "last_updated": "2026-11-10T15:50:02+00:00"
 }
