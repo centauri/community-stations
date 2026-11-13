@@ -34,6 +34,17 @@
             "updated_at": "2026-10-15T15:41:59+02:00"
         },
         {
+            "id": "108281d6652e0a47",
+            "name": "Bucuresti - Ferdinand",
+            "latitude": 44.441966250215,
+            "longitude": 26.126499247363,
+            "url": "https://meteo.thartarus.com",
+            "hardware": "WS90",
+            "manufacturer": "other",
+            "country_code": "RO",
+            "updated_at": "2026-11-13T17:56:29+00:00"
+        },
+        {
             "id": "1125036881501574",
             "name": "Eichenallee",
             "latitude": 52.668338794717,
@@ -271,5 +282,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-13T04:40:03+00:00"
+    "last_updated": "2026-11-13T18:00:03+00:00"
 }
