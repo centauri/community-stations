@@ -112,6 +112,18 @@
             "updated_at": "2026-10-15T13:41:11+00:00"
         },
         {
+            "id": "4d5b838e0393ab94",
+            "name": "Wetterstation Dortmund H\u00f6rde",
+            "latitude": 51.478555007838,
+            "longitude": 7.4939219441031,
+            "url": null,
+            "hardware": "WS90",
+            "manufacturer": "fineoffset",
+            "country_code": "DE",
+            "updated_at": "2026-11-14T12:18:11+00:00",
+            "local_only": true
+        },
+        {
             "id": "5197ab374586e759",
             "name": "WeatherNode",
             "latitude": 44.37898053657,
@@ -282,5 +294,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-14T04:40:01+00:00"
+    "last_updated": "2026-11-14T12:20:02+00:00"
 }
