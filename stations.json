@@ -135,6 +135,18 @@
             "updated_at": "2026-10-26T04:38:21+00:00"
         },
         {
+            "id": "619ff5136b71bcc9",
+            "name": "EarthStation51",
+            "latitude": 40.592628640192,
+            "longitude": -83.107335020944,
+            "url": null,
+            "hardware": "WS-2000",
+            "manufacturer": "ambient",
+            "country_code": "US",
+            "updated_at": "2026-11-22T01:57:00+00:00",
+            "local_only": true
+        },
+        {
             "id": "65f989ddc98bb04a",
             "name": "Davis Instruments demo station Hayward",
             "latitude": 37.636776705901,
@@ -294,5 +306,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-21T08:50:02+00:00"
+    "last_updated": "2026-11-22T02:00:02+00:00"
 }
