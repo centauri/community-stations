@@ -67,6 +67,18 @@
             "updated_at": "2026-11-07T17:31:46+00:00"
         },
         {
+            "id": "1d9d16235efa9840",
+            "name": "Hogwarts Weather Observatory",
+            "latitude": 42.725402407994,
+            "longitude": -92.476359175538,
+            "url": null,
+            "hardware": "WS-2902",
+            "manufacturer": "ambient",
+            "country_code": "US",
+            "updated_at": "2026-11-23T00:03:49+00:00",
+            "local_only": true
+        },
+        {
             "id": "1db6d0163ff89e8f",
             "name": "Weather in Tallinn / Mustam\u00e4e",
             "latitude": 59.413025174859,
@@ -306,5 +318,5 @@
             "updated_at": "2026-10-07T05:31:05+00:00"
         }
     ],
-    "last_updated": "2026-11-22T04:40:01+00:00"
+    "last_updated": "2026-11-23T00:10:02+00:00"
 }
